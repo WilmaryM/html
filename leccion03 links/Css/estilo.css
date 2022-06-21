@@ -1,0 +1,30 @@
+
+h1{
+    color: #fdfdff;
+    text-align: center;
+}
+
+a:link, a:visited{
+
+    background-color: #c6c5b9;
+    color: black;
+    padding: 15px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+a:hover, a:active{
+    background-color: #546a7b;
+}
+
+body{
+    background-color: #393d3f;
+}
+
+a{
+    text-align: center;
+    padding: 100px;
+    margin: 0 auto ;
+}
+

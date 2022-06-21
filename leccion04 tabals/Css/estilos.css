@@ -1,0 +1,40 @@
+table{
+    width: 100%;
+}
+
+table, th,td{
+    border: 1px solid #b5838d;
+    border-collapse: collapse;
+    /*border-spacing: 5px;*/
+    padding: 5px;
+}
+
+caption{
+   color: #6d6875 ; 
+   font-family: 'Trocchi', serif;
+   font-size: 45px;
+   line-height: 70px;
+}
+
+
+td{
+    text-align: center;
+    color: #e5e5e5 ;
+}
+
+th{
+ color: #e5e5e5 ;
+ background-color: #023047 ;
+}
+
+tr:nth-child(even){
+    background-color: #219ebc ;
+}
+
+tr:nth-child(odd){
+    background-color: #000000 ;
+}
+
+
+
+
